@@ -17,4 +17,4 @@ A fun and challenging 2D racing game built using **PyGame**. Race against the cl
 
 # Author
 This project was done by Erick Kipkoech for any concerns reach out.
-Github repository 
+Github repository https://github.com/Erick11391/game_racing
